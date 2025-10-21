@@ -1,0 +1,54 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- 窗口背景 -->
+  <rect width="600" height="400" fill="#f0f0f0" rx="5" ry="5"/>
+  
+  <!-- 标题栏 -->
+  <rect width="600" height="30" fill="#d0d0d0" rx="5" ry="5"/>
+  <text x="20" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold">MP4文件拷贝工具</text>
+  
+  <!-- 最小化、最大化、关闭按钮 -->
+  <circle cx="540" cy="15" r="5" fill="#cccccc"/>
+  <circle cx="565" cy="15" r="5" fill="#cccccc"/>
+  <circle cx="590" cy="15" r="5" fill="#cccccc"/>
+  
+  <!-- 输入目录 -->
+  <text x="20" y="60" font-family="Arial, sans-serif" font-size="12">输入目录:</text>
+  <rect x="100" y="45" width="350" height="25" fill="#ffffff" stroke="#cccccc"/>
+  <text x="105" y="62" font-family="Arial, sans-serif" font-size="12">E:/sora2</text>
+  <rect x="460" y="45" width="120" height="25" fill="#e0e0e0" stroke="#cccccc" rx="3" ry="3"/>
+  <text x="490" y="62" font-family="Arial, sans-serif" font-size="12">选择输入目录</text>
+  
+  <!-- 输出目录 -->
+  <text x="20" y="100" font-family="Arial, sans-serif" font-size="12">输出目录:</text>
+  <rect x="100" y="85" width="350" height="25" fill="#ffffff" stroke="#cccccc"/>
+  <text x="105" y="102" font-family="Arial, sans-serif" font-size="12">E:/bsvideo</text>
+  <rect x="460" y="85" width="120" height="25" fill="#e0e0e0" stroke="#cccccc" rx="3" ry="3"/>
+  <text x="490" y="102" font-family="Arial, sans-serif" font-size="12">选择输出目录</text>
+  
+  <!-- 文件列表框 -->
+  <rect x="20" y="120" width="560" height="200" fill="#ffffff" stroke="#cccccc"/>
+  
+  <!-- 文件列表内容 -->
+  <text x="30" y="140" font-family="Arial, sans-serif" font-size="11">E:/sora2\1.mp4 | 时长: 00:00:10</text>
+  <text x="30" y="160" font-family="Arial, sans-serif" font-size="11">E:/sora2\12.mp4 | 时长: 00:00:10</text>
+  <text x="30" y="180" font-family="Arial, sans-serif" font-size="11">E:/sora2\16.mp4 | 时长: 00:00:10</text>
+  <text x="30" y="200" font-family="Arial, sans-serif" font-size="11">E:/sora2\a1.mp4 | 时长: 00:00:10</text>
+  <text x="30" y="220" font-family="Arial, sans-serif" font-size="11">E:/sora2\a2.mp4 | 时长: 00:00:10</text>
+  <text x="30" y="240" font-family="Arial, sans-serif" font-size="11">E:/sora2\a3.mp4 | 时长: 00:00:10</text>
+  <text x="30" y="260" font-family="Arial, sans-serif" font-size="11">E:/sora2\a4.mp4 | 时长: 00:00:10</text>
+  <text x="30" y="280" font-family="Arial, sans-serif" font-size="11">E:/sora2\a5.mp4 | 时长: 00:00:10</text>
+  <text x="30" y="300" font-family="Arial, sans-serif" font-size="11">E:/sora2\a6.mp4 | 时长: 00:00:10</text>
+  
+  <!-- 时长范围 -->
+  <text x="20" y="340" font-family="Arial, sans-serif" font-size="12">时长范围（秒）:</text>
+  <rect x="130" y="330" width="50" height="25" fill="#ffffff" stroke="#cccccc"/>
+  <text x="135" y="347" font-family="Arial, sans-serif" font-size="12">9</text>
+  <rect x="200" y="330" width="200" height="25" fill="#ffffff" stroke="#cccccc"/>
+  <text x="205" y="347" font-family="Arial, sans-serif" font-size="11">示例: [0,30] 或 [5,120] 或 [56,)</text>
+  
+  <!-- 按钮 -->
+  <rect x="200" y="365" width="120" height="30" fill="#e0e0e0" stroke="#cccccc" rx="3" ry="3"/>
+  <text x="240" y="385" font-family="Arial, sans-serif" font-size="12">开始拷贝</text>
+  <rect x="460" y="365" width="120" height="30" fill="#e0e0e0" stroke="#cccccc" rx="3" ry="3"/>
+  <text x="500" y="385" font-family="Arial, sans-serif" font-size="12">开始移动</text>
+</svg>
