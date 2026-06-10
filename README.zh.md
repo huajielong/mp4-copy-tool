@@ -1,9 +1,3 @@
-<p align="center">
-  ⭐ If this tool helps you, please give it a Star!
-</p>
-
----
-
 <h1 align="center">📁 MP4 Copy Tool — MP4文件智能拷贝工具</h1>
 <p align="center"><b>按时长精确筛选并复制/移动MP4文件，Clean Architecture设计，图形界面操作</b></p>
 <p align="center">

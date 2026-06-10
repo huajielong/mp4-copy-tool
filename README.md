@@ -20,8 +20,6 @@
   <a href="#-faq">❓ FAQ</a>
 </p>
 
-> [中文说明](README.zh.md)
-
 ---
 
 ## 🤔 Need to Pick Out Videos by Duration from a Huge Collection?
@@ -174,3 +172,11 @@ Contributions of all forms are welcome — submit an Issue, Pull Request, or imp
 ## 📄 License
 
 MIT © [huajielong](https://github.com/huajielong)
+
+---
+
+<p align="center">
+  ⭐ If this tool helps you, please give it a Star!
+</p>
+
+> [中文说明](README.zh.md)
